@@ -8,11 +8,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-<img src="./images/sol-desktop.png" alt="Mobile Preview" style="width:25%;"/>
+<img src="./images/sol-desktop.png" alt="Mobile Preview" style="width:75%;"/>
 
 Desktop View
 
-<img src="./images/sol-mobile.png" alt="Mobile Preview" style="width:25%;"/>
+<img src="./images/sol-mobile.png" alt="Mobile Preview" style="width:50%;"/>
 
 Mobile View
 
