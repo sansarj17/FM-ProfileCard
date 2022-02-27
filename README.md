@@ -8,18 +8,18 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-<img src="./images/sol-desktop.png" alt="Mobile Preview" style="width:75%;"/>
+<img src="./images/sol-desktop.png" alt="Mobile Preview" style="width:100%;"/>
 
 Desktop View
 
-<img src="./images/sol-mobile.png" alt="Mobile Preview" style="width:50%;"/>
+<img src="./images/sol-mobile.png" alt="Mobile Preview" style="width:30%;"/>
 
 Mobile View
 
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/3-column-preview-r8eETRMDS)
-- Live Site URL: [Live Site](https://sansarj17.github.io/FM-3ColumnPreview/)
+- Live Site URL: [Live Site](https://sansarj17.github.io/FM-ProfileCard/)
 
 ### Built with
 
