@@ -18,12 +18,12 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/3-column-preview-r8eETRMDS)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/profile-card-component-loAMcXeil)
 - Live Site URL: [Live Site](https://sansarj17.github.io/FM-ProfileCard/)
 
 ### Built with
 
-- CSS Grid
+- CSS Flexbox
 - CSS custom properties
 
 ## Author
